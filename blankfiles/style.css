@@ -1,0 +1,25 @@
+#hello {
+  background-color: purple;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  float: left;
+}
+
+#goodbye {
+  background-color: yellow;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  float: right;
+}
+
+#title {
+  background-color: pink;
+  width: 100%;
+  height: 10%;
+}
+
+img {
+  width: 200px;
+}
